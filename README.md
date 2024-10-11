@@ -15,6 +15,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws) 
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio)  
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-05122A?style=flat&logo=visual-studio)
 
 #About me:
 ### 🌟 About Me
